@@ -1,0 +1,29 @@
+.ui.top.bottom.attached.borderless.menu {
+  background-color: gainsboro;
+}
+
+.ui.borderless.menu {
+  background-color: gainsboro;
+}
+
+/* Centering text */
+.centered {
+  text-align: center;
+}
+
+.ui.upper.container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+.ui.container {
+  margin: 10px 0px 10px 0px;
+}
+
+/* Links with the white class are white*/
+a.white, a.item{
+  color: #ffffff;
+}
