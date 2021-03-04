@@ -129,7 +129,7 @@ class LowerMidMenu extends React.Component {
                   Real-Time Bus Arrival
                 </Header>
                 <p>Enter Street name or location</p>
-                <Input icon='search' placeholder='Search...' />
+                <Input action='search' placeholder='Search...' />
               </Segment>
             </Grid.Column>
             <Grid.Column width={10}>
