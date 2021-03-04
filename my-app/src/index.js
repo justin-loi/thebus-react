@@ -47,14 +47,14 @@ class COVID extends React.Component {
               <div><a href="#">Onboard Announcement.wav</a></div>
             </Container>
 
-            <div className="ui divider"></div>
+            <Divider/>
 
             <Container textAlign="left">
               <p> A Presidential Executive Order and New Centers For Disease Control (CDC) Regulations now requires ALL passengers (riders) to wear a Mask while riding public transportation. The regulation states specific types of mask that are acceptable and those that are no longer acceptable to wear while riding public transit.</p>
               <p>In addition to wearing a mask while boarding and throughout the ride, riders are also required to wear their masks while waiting at a transit center facility.</p>
             </Container>
 
-            <div className="ui divider"></div>
+            <Divider/>
 
             <Header as="h4">Allowed</Header>
             <List bulleted>
@@ -78,7 +78,7 @@ class COVID extends React.Component {
               <List.Item>Medical exemptions require a valid NO MASK/FACE SHIELD-ONLY card</List.Item>
             </List>
 
-            <div className="ui divider"></div>
+            <Divider/>
 
             <Container textAlign="center">
               <p> To apply for a medical exemption card, contact: </p>
@@ -88,7 +88,7 @@ class COVID extends React.Component {
               <p> Except City Holidays </p>
             </Container>
 
-            <div className="ui divider"></div>
+            <Divider/>
 
             <Container textAlign="left">
               <p> Presidential Order: <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-promoting-covid-19-safety-in-domestic-and-international-travel/">https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-promoting-covid-19-safety-in-domestic-and-international-travel/</a></p>
@@ -140,7 +140,7 @@ class LowerMidMenu extends React.Component {
                 <Header as="h4">
                   January 23, 2021 05:00am - Kuntz Gate Closed on Weekends
                 </Header>
-                <div className="ui divider"></div>
+                <Divider/>
                 <p>Route(s) 303</p>
                 <p>No service Eastbound and Westbound on Elliott St. Please board buses on Nimitz prior to Elliott, and
                   on Kuntz Ave after the self serve car wash.</p>
