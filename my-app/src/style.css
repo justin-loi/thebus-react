@@ -27,3 +27,7 @@
 a.white, a.item{
   color: #ffffff;
 }
+
+.ui.stackable.fluid.borderless.footer.menu {
+  display: block;
+}
